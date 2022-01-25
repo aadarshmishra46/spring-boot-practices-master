@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentCrud/StudentCrud.iml" filepath="$PROJECT_DIR$/StudentCrud/StudentCrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O1-spring-boot-demo/mycoolapp.iml" filepath="$PROJECT_DIR$/O1-spring-boot-demo/mycoolapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O2-spring-boot-demo/mycoolapp (1).iml" filepath="$PROJECT_DIR$/O2-spring-boot-demo/mycoolapp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/O3-actuator-boot-demo/mycoolapp (2).iml" filepath="$PROJECT_DIR$/O3-actuator-boot-demo/mycoolapp (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/O4-command-line-demo/mycoolapp (3).iml" filepath="$PROJECT_DIR$/O4-command-line-demo/mycoolapp (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/O5-properties-demo/mycoolapp (4).iml" filepath="$PROJECT_DIR$/O5-properties-demo/mycoolapp (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-chad-duby.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-chad-duby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springrest/springrest.iml" filepath="$PROJECT_DIR$/springrest/springrest.iml" />
+    </modules>
+  </component>
+</project>

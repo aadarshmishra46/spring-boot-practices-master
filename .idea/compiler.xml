@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springrest" />
+        <module name="postgresql_demo" />
+        <module name="StudentCrud" />
+        <module name="mycoolapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mycoolapp" target="1.8" />
+      <module name="postgresql_demo" target="11" />
+      <module name="springrest" target="11" />
+      <module name="StudentCrud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="StudentCrud" options="-parameters" />
+      <module name="mycoolapp" options="-parameters" />
+      <module name="postgresql_demo" options="-parameters" />
+      <module name="springrest" options="-parameters" />
+    </option>
+  </component>
+</project>

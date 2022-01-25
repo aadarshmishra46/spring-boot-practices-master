@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/O1-spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/O2-spring-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/O3-actuator-boot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/O4-command-line-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/O5-properties-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentCrud/pom.xml" />
+        <option value="$PROJECT_DIR$/springrest/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
